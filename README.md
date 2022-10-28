@@ -3,7 +3,7 @@ If This, Then That
 Samanta Singh
 
 # GH Pages
-- 
+- [Live](https://samantasingh.github.io/cpnt262-a2/)
 
 # Attributions
  W3schools
