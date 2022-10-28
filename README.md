@@ -1,11 +1,13 @@
 # CPNT-262-a2
-If This, Then That - Assignment 2
+If This, Then That
 Samanta Singh
 
 # GH Pages
+- 
 
 # Attributions
- [W3schools]()
+ W3schools
+ - [Style background property](https://www.w3schools.com/JSREF/prop_style_background.asp)
 
 Pexels
 - [Strawberry](https://www.pexels.com/photo/70746/)
